@@ -30,9 +30,7 @@ Nesse desafio foi proposto construir um site completo para uma empresa de receit
 
 ## :film_strip: Demonstração
 
-![gif](https://github.com/cleber-santos/foodfy-desafio2/blob/master/assets/demo.gif)
-
----
+![gif](https://github.com/cleber-santos/foodfy-desafio2/blob/master/assets/demo.gif)  
 
 ## :memo: Licença
 
@@ -40,4 +38,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito por Cleber Santos [linkedin](https://www.linkedin.com/in/cleber-rodrigo-santos/) - com a [Rocketseat](https://rocketseat.com.br) :rocket: | [Entre na comunidade da rocketseat!](https://discordapp.com/invite/gCRAFhc) :purple_heart:
+Feito por Cleber Santos - [linkedin](https://www.linkedin.com/in/cleber-rodrigo-santos/) - com a [Rocketseat](https://rocketseat.com.br) :rocket: | [Entre na comunidade da rocketseat!](https://discordapp.com/invite/gCRAFhc) :purple_heart:
